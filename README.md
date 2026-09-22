@@ -30,6 +30,7 @@
 <p align="center">
   <img src="photo_5877232720025426683_y.jpg" width="400" />
   <img src="photo_5877232720025426686_y.jpg" width="400" />
+  <img src="d6148621-5a18-457e-b0d7-d647f56d064b.jpg" width="400" />
 </p>
 
 ---
