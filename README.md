@@ -21,11 +21,13 @@
 
 ---
 
-### 🏅 Honors & International Awards:
-- 🥈 **Silver Medal** – International Invention and Innovation Competition (Geneva, Switzerland, 2026) for *Dreamscan: AI-Powered Sleep Health Monitoring*
-- 🥉 **Bronze Medal** – International Invention Competition (Geneva, Switzerland, 2025)
-- 🥇 **1st Place** – Web Programming Competition (USA, 2026)
-- 🌐 **Member** – International Federation of Inventors' Associations (IFIA)
+### 🏆 Honors & Awards
+
+*   🥇 **Gold Medalist:** Web Programming Competition, USA 2026
+*   🥈 **Silver Medalist:** Geneva Inventions Exhibition, Switzerland 2026 (Dreamscan Project)
+*   🥉 **Bronze Medalist:** Geneva Inventions Exhibition, Switzerland 2025
+*   🌐 **Official Member:** International Federation of Inventors' Associations (IFIA)
+
 
 <p align="center">
   <img src="photo_5877232720025426683_y.jpg?raw=true" width="28%" hspace="5" />
