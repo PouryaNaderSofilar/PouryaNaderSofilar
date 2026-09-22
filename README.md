@@ -23,10 +23,13 @@
 
 ### 🏆 Honors & Awards
 
-*   🥇 **Gold Medalist:** Web Programming Competition, USA 2026
-*   🥈 **Silver Medalist:** Geneva Inventions Exhibition, Switzerland 2026 (Dreamscan Project)
-*   🥉 **Bronze Medalist:** Geneva Inventions Exhibition, Switzerland 2025
-*   🌐 **Official Member:** International Federation of Inventors' Associations (IFIA)
+> A track record of innovation, international recognition, and competitive programming excellence.
+
+*   🥇 **Gold Medalist** — *Web Programming Competition, USA 2026*
+*   🥈 **Silver Medalist** — *Geneva Inventions Exhibition, Switzerland 2026 (Dreamscan Project)*
+*   🥉 **Bronze Medalist** — *Geneva Inventions Exhibition, Switzerland 2025*
+*   🌐 **Official Member** — *International Federation of Inventors' Associations (IFIA)*
+---
 
 
 <p align="center">
