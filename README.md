@@ -27,9 +27,16 @@
 - 🥇 **1st Place** – Web Programming Competition (USA, 2026)
 - 🌐 **Member** – International Federation of Inventors' Associations (IFIA)
 
+<p align="center">
+  <img src="" width="400" />
+  <img src="" width="400" />
+</p>
+
 ---
+
 
 ### 📊 GitHub Stats:
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PouryaNaderSofilar&show_icons=true&theme=radical" />
 </p>
+
