@@ -28,8 +28,8 @@
 - 🌐 **Member** – International Federation of Inventors' Associations (IFIA)
 
 <p align="center">
-  <img src="" width="400" />
-  <img src="" width="400" />
+  <img src="photo_5877232720025426683_y.jpg" width="400" />
+  <img src="photo_5877232720025426686_y.jpg" width="400" />
 </p>
 
 ---
